@@ -1,12 +1,12 @@
 # restapi
 REST API Demo Cloud Brothers
 
-# HTTPS
+#### HTTPS
 
 ```
 git clone https://github.com/smugford/restapi.git
 ```
-# SSH
+#### SSH
 
 ```
 git clone git@github.com:smugford/restapi.git
